@@ -1,1 +1,1 @@
-# codesoft-task-2
+A portfolio built with HTML, CSS, and JavaScript showcases your work and skills in a visually appealing and interactive format. HTML organizes the content into sections like About, Projects, and Contact. CSS enhances the design with custom styling, colors, and responsive layouts. JavaScript adds interactivity, such as smooth scrolling, animations, and dynamic content, making the portfolio engaging and user-friendly.
